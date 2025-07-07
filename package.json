@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.30.1",
+    "@cosmjs/proto-signing": "^0.30.1",
+    "@cosmjs/stargate": "^0.30.1",
+    "axios": "^1.6.8",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "ora": "^6.3.1"
+  }
+}
