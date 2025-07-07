@@ -1,0 +1,37 @@
+[
+  {
+    "pair_name": "NFA/ZIG",
+    "contract": "zig1dye3zfsn83jmnxqdplkfmelyszhkve9ae6jfxf5mzgqnuylr0sdq8ng9tv",
+    "belief_price": "0.002145426567011698",
+    "max_spread": "0.005",
+    "denom": "uzig"
+  },
+  {
+    "pair_name": "FOMOF/ZIG",
+    "contract": "zig1unc0549k2f0d7mjjyfm94fuz2x53wrx3px0pr55va27grdgmspcqsp4692",
+    "belief_price": "1.652310839324337088",
+    "max_spread": "0.005",
+    "denom": "uzig"
+  },
+  {
+    "pair_name": "UORO/ZIG",
+    "contract": "zig15jqg0hmp9n06q0as7uk3x9xkwr9k3r7yh4ww2uc0hek8zlryrgmsamk4qg",
+    "belief_price": "0.949831243482970433",
+    "max_spread": "0.005",
+    "denom": "uzig"
+  },
+  {
+    "pair_name": "BEE/ZIG",
+    "contract": "zig1r50m5lafnmctat4xpvwdpzqndynlxt2skhr4fhzh76u0qar2y9hqu74u5h",
+    "belief_price": "1117.818019226469914429",
+    "max_spread": "0.005",
+    "denom": "uzig"
+  },
+  {
+    "pair_name": "Custom/ZIG",
+    "contract": "zig1j55nw46crxkm03fjdf3cqx3py5cd32jny685x9c3gftfdt2xlvjs63znce",
+    "belief_price": "0.000027172655924180",
+    "max_spread": "0.005",
+    "denom": "uzig"
+  }
+]
